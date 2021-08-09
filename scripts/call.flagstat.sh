@@ -1,0 +1,16 @@
+srun --mem 8000 --time 200 samtools flagstat ../alignments/352J.sorted.markdup.bam > ../alignments/352J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/222J.sorted.markdup.bam > ../alignments/222J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/304J.sorted.markdup.bam > ../alignments/304J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/405G.sorted.markdup.bam > ../alignments/405G.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/313J.sorted.markdup.bam > ../alignments/313J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/301J.sorted.markdup.bam > ../alignments/301J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/M472.sorted.markdup.bam > ../alignments/M472.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/314J.sorted.markdup.bam > ../alignments/314J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/613G.sorted.markdup.bam > ../alignments/613G.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/136J.sorted.markdup.bam > ../alignments/136J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/369J.sorted.markdup.bam > ../alignments/369J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/171J.sorted.markdup.bam > ../alignments/171J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/167J.sorted.markdup.bam > ../alignments/167J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/303J.sorted.markdup.bam > ../alignments/303J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/255J.sorted.markdup.bam > ../alignments/255J.sorted.markdup.bam.flagstat &
+srun --mem 8000 --time 200 samtools flagstat ../alignments/78J.sorted.markdup.bam > ../alignments/78J.sorted.markdup.bam.flagstat &

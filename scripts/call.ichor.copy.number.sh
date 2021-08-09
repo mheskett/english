@@ -1,0 +1,16 @@
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/136J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/167J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/171J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/222J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/255J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/301J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/303J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/304J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/313J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/314J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/352J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/369J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/405G.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/613G.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/78J.sorted.markdup.bam.wig ./ &
+srun --mem 6000 --time 100 ichor.copy.number.sh ../alignments/M472.sorted.markdup.bam.wig ./ &
