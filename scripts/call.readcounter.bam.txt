@@ -1,0 +1,16 @@
+sbatch readcounter.bam.sh ../alignments/136J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/167J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/171J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/222J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/255J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/301J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/303J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/304J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/313J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/314J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/352J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/369J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/405G.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/613G.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/78J.sorted.markdup.bam
+sbatch readcounter.bam.sh ../alignments/M472.sorted.markdup.bam
